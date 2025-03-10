@@ -1,7 +1,7 @@
 # PFC_IT_NE_effect
 
 ## Overview
-**PFC_IT_NE_effect** is a computational neuroscience project investigating the influence of **intratelencephalic (IT) neurons** in the **prefrontal cortex (PFC)** on network dynamics and information processing. The project explores how IT neurons modulate coscillatory behavior in both control and pathological conditions (e.g., Parkinson’s disease).
+**PFC_IT_NE_effect** is a computational neuroscience project investigating the influence of **intratelencephalic (IT) neurons** in the **prefrontal cortex (PFC)** on network dynamics and information processing. The project explores how IT neurons modulate oscillatory behavior in both control and pathological conditions (e.g., Parkinson’s disease).
 
 ## Research Objectives
 - Analyze the role of IT neurons in the PFC.
